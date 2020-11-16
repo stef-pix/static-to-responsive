@@ -59,7 +59,7 @@ header {
 
 header h1 {
 	margin: 0;
-	padding: 38px 0 22px 0;
+	padding: 38px 0 15px 0;
 	border-bottom: 3px solid #77a466;
 }
 header h1 span {
@@ -67,7 +67,7 @@ header h1 span {
 }
 
 header nav {
-	padding: 28px 0 8px 0;
+	padding: 17px 0;
 	text-align: center;
 }
 header nav ul {
@@ -79,7 +79,7 @@ header nav ul li {
 	font-weight: 700;
 	font-size: 0.875em;
 	list-style: none;
-	height: 35px;
+	padding: 14px;
 
 }
 header nav ul li a{
@@ -116,7 +116,7 @@ header nav ul li a{
 .main-title p {
 	padding: 0;
 	font-size: 1em;
-	line-height: 1.5625em;
+	line-height: 2em;
 }
 
 .section-one,
